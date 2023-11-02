@@ -25,7 +25,7 @@
 
 ## About The Challange
 
-Well, i relaly enjoy a challange, so how I can make more fun. This is focused on design, but Why I can't make it with coding? I try to make everyday with Figma and coding.
+Well, i relaly enjoy a challange, so how I can make more fun. This is focused on design, but why I can't make it with coding? I try to make everyday with Figma and coding.
 
 
 ## Challanges
